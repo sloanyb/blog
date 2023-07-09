@@ -1,6 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-07-08T09:03:20-08:00
+author: Ben Sloan
 ---
 ## Introduction
 
